@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6897'
     url: http://www.gutenberg.org/2009/agents/6897
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16733#Montlivet
 gutenberg_issued: '2005-09-23'
 gutenberg_type: Text
 identifiers:
